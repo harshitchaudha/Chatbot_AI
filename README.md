@@ -12,7 +12,7 @@ This project is a chatbot application built using Streamlit and the Gemini API. 
 
 1. **Clone the Repository**
    ```bash
-   git clone <https://github.com/harshitchaudha/GeminiGizmo.git>
+   git clone <https://github.com/harshitchaudha/Chatbot_AI.git>
    cd <repository-directory>
 
 2. **Set Up a Virtual Environment**
